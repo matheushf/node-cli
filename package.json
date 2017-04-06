@@ -1,0 +1,27 @@
+{
+  "name": "broadcast",
+  "version": "1.0.0",
+  "description": "CLI utility to broadcast emails",
+  "main": "broadcast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheushf/node-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "csv": "^1.1.0",
+    "inquirer": "^2.0.0",
+    "sendgrid": "^4.7.1"
+  },
+  "bugs": {
+    "url": "https://github.com/matheushf/node-cli/issues"
+  },
+  "homepage": "https://github.com/matheushf/node-cli#readme"
+}
